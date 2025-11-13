@@ -1,4 +1,4 @@
-package com.dikshanta.geocoding.geocoding_service.controllers.dto;
+package com.dikshanta.geocoding.geocoding_service.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
