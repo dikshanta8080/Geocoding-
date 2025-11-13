@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: geocoding_service
+server:
+  port: 8090
